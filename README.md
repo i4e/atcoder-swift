@@ -15,4 +15,4 @@ Swift 4.2 で AtCoder がやりたい．
 ### Run Testcases
 
 1. https://github.com/kmyk/online-judge-tools をインストール
-2. `$ oj test ./[FILENAME].swift`
+2. `$ oj test -c ./[FILENAME].swift`
