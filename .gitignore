@@ -66,3 +66,9 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+
+# testcase
+#
+# https://github.com/kmyk/online-judge-tools
+
+test/
